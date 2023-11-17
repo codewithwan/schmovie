@@ -18,7 +18,8 @@ Python Basic API wrapper
 Install my-project with npm
 
 ```bash
-  pip install schmovie
+$ pip install schmovie
+$ pip install googletrans
 ```
     
 
