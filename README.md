@@ -29,7 +29,7 @@ Basic Usage :
 ```python
 from schmovie.movie import Omdb
 
-omdb = OMDB("YOUR_API_KEY")
+omdb = Omdb("YOUR_API_KEY")
 movie_title = input("Search Movie : ")
 result = omdb.search_movie(movie_title)
     
